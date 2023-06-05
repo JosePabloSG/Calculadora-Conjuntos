@@ -28,10 +28,4 @@ La calculadora de conjuntos proporciona las siguientes funcionalidades:
 5. Realiza las operaciones deseadas ingresando los conjuntos y seleccionando la operación correspondiente.
 6. Observa los resultados mostrados en pantalla y realiza las acciones adicionales según sea necesario.
 
-## Contribuciones
-Este proyecto fue desarrollado como parte de un proyecto académico y, por lo tanto, no aceptamos contribuciones externas en este momento.
-
-## Información adicional
-Si tienes alguna pregunta o inquietud relacionada con este proyecto, puedes ponerte en contacto con cualquiera de los autores mencionados anteriormente.
-
 ¡Gracias por tu interés en nuestra calculadora de conjuntos!
